@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python,Mathematics,Data_Analysis,AI_Fundamentals,Attendance_Percent,Total,Average,Grade,Result
+1001,Aarav Sharma,Computer Science,88,92,85,90,95,355,88.75,A,Pass
+1002,Diya Patel,Information Technology,76,81,79,84,88,320,80.0,A,Pass
+1003,Kabir Singh,Computer Science,67,72,70,68,82,277,69.25,C,Pass
+1004,Anaya Deshmukh,Artificial Intelligence,93,96,91,95,98,375,93.75,A+,Pass
+1005,Ishaan Gupta,Information Technology,54,61,58,63,75,236,59.0,D,Pass
+1006,Meera Joshi,Computer Science,81,86,83,88,91,338,84.5,A,Pass
+1007,Arjun Rao,Artificial Intelligence,42,48,45,50,68,185,46.25,F,Pass
+1008,Saanvi Kulkarni,Information Technology,72,77,74,79,85,302,75.5,B,Pass
+1009,Vivaan Shah,Computer Science,31,45,39,42,60,157,39.25,F,Fail
+1010,Aditi Verma,Artificial Intelligence,89,87,92,90,94,358,89.5,A,Pass
+1011,Reyansh Nair,Information Technology,61,65,64,69,79,259,64.75,C,Pass
+1012,Myra Khan,Computer Science,95,91,94,96,99,376,94.0,A+,Pass
+1013,Atharv Pawar,Artificial Intelligence,48,52,46,55,70,201,50.25,D,Pass
+1014,Kiara Mehta,Information Technology,84,82,88,86,92,340,85.0,A,Pass
+1015,Advik Jain,Computer Science,70,68,73,71,83,282,70.5,B,Pass
+1016,Pari More,Artificial Intelligence,58,63,60,65,77,246,61.5,C,Pass
+1017,Krishna Iyer,Information Technology,91,89,93,92,96,365,91.25,A+,Pass
+1018,Ira Chavan,Computer Science,36,39,32,41,66,148,37.0,F,Fail
+1019,Rudra Bansal,Artificial Intelligence,78,75,80,77,87,310,77.5,B,Pass
+1020,Tara Desai,Information Technology,64,70,67,72,81,273,68.25,C,Pass

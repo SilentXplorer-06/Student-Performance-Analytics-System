@@ -52,7 +52,7 @@ This project gave me practice with CSV files, Pandas DataFrames, NumPy arrays, f
 
 ## 10. GitHub Repository
 
-**Repository link:** Add your GitHub URL after you upload the project and check that the files are visible.
+**Repository link:https://github.com/SilentXplorer-06/Student-Performance-Analytics-System?utm_source=chatgpt.com.
 
 ## Grading and Pass Rules
 

@@ -51,3 +51,5 @@ These are the rules chosen for this practice project. A student passes only if t
 - `student_results.csv` — output file created by the program.
 - `requirements.txt` — lists Pandas and NumPy.
 - `PROJECT_DOCUMENTATION.md` — project write-up.
+## IMP NOTE ##
+- The program should be run in Python 3.13 version.
